@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV4K 16M2160
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV16 25M2160
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 ,纯享4K 20M2160
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+#EXTINF:-1 ,芒果TV 15M2160
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1 ,成都大熊猫繁育研究基地 4M1080
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226715/index.m3u8?servicetype=1
+#EXTINF:-1 ,凤凰中文 8M1080
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+#EXTINF:-1 ,凤凰资讯 8M1080
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
